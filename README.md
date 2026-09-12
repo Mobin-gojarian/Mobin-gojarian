@@ -28,13 +28,6 @@ Here are some of the projects I’m working on:
 
 ---
 
-## 📈 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Mobin-gojarian&show_icons=true&theme=tokyonight)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mobin-gojarian&layout=compact&theme=tokyonight)
-
----
-
 ## 🔗 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/mobin-gojarian-b8b590436
 - Email: mobin.g.dev@gmail.com
