@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Mobin
 
-<!--
-**Mobin-gojarian/Mobin-gojarian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Frontend Developer focused on building modern, fast, and user‑centered web interfaces.  
+My work is driven by clean architecture, responsive design principles, and precise attention to UI/UX details.
 
-Here are some ideas to get you started:
+I consistently refine my workflow, adopt best practices, and build interfaces that balance aesthetics with performance.  
+Quality, clarity, and structured development guide my approach every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+- HTML  
+- CSS  
+- Responsive Design  
+- UI/UX Fundamentals  
+- Git & GitHub  
+
+---
+
+## 📌 Featured Projects
+Here are some of the projects I’m working on:
+
+- **Modern Landing Page** – Clean UI, responsive layout  
+- **Responsive Web Layout** – Mobile-first design  
+- **UI Components** – Cards, grids, and reusable elements  
+
+(Links will be added as projects are uploaded.)
+
+---
+
+
+## 🔗 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/mobin-gojarian-b8b590436
+- Email: mobin.g.dev@gmail.com
